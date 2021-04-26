@@ -13,6 +13,6 @@ class Dog
   end
   
   def breed 
-    @this_dogs_breed
+    @breed
   end 
 end 
